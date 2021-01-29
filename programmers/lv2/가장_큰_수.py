@@ -1,6 +1,7 @@
 numbers = []
 numbers = list(map(int,input().split()))
 
+
 def solution(numbers):
     stack = []
     tmp = []
